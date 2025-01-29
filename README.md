@@ -1,2 +1,2 @@
-# proyecto_johan
-Este proyecto trata del aprendizaje de git
+## proyecto johan
+- para hacer uso de este proyecto utiliza el comando gint clone 
